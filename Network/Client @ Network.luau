@@ -1,5 +1,5 @@
 --!strict
---[[
+--[=[
 	Written by Max. Discord @614437551498854431
     https://github.com/Vertovy
 
@@ -61,7 +61,7 @@
 	```luau
 		Channel:InvokeServer(event: string, ...: any) -> ...any
 	```
-]]
+--]=]
 
 const Network = {}
 

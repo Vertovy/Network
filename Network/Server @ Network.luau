@@ -1,5 +1,5 @@
 --!strict
---[[
+--[=[
 	Written by Max. Discord @614437551498854431
 	https://github.com/Vertovy
 
@@ -144,7 +144,7 @@
 		Channel:FireAllClientsUnreliable(event: string, ...: any) -> ()
 		Channel:FireAllClientsButUnreliable(event: string, exception: Player, ...: any) -> ()
 	```
-]]
+--]=]
 
 const Network = { _middlewares = {} }
 
